@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.input-todo{
+    width: 32%;
+    height: 3rem;
+    border-radius: 10px;
+    
+}
+.add-todo{
+    width: 45px;
+    height: 48px;
+    border-radius:10px;
+}
