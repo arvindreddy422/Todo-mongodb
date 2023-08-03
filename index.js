@@ -1,0 +1,1 @@
+const TodoBtn = document.getElementById('addBtn');
